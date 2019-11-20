@@ -5,4 +5,9 @@ welcome to kitchen
 
 3.chicken fry
 
+
+
+4.beans
+5.pizza
+
 thank you
