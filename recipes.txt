@@ -2,3 +2,6 @@ welcome to kitchen
 
 1.pasta
 1.jamoon
+
+3.chicken fry
+
